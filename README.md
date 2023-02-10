@@ -3,7 +3,11 @@ Sprocket is a bicycle manufacturing company, that has been a long standing clien
 
 ## Tools Used: 
 Data Quality and Assessment - EXCEL
+
 EDA - Pandas, Matplotlib, Seaborn & NumPy
+
 Model - Scikit Learn & Catboost
+
 PPT - Microsoft PowerPoint
+
 Dashboard - Tableau
